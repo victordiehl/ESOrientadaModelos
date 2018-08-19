@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gastronomia/gastronomia.iml" filepath="$PROJECT_DIR$/../gastronomia/gastronomia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gastronomiaApi.iml" filepath="$PROJECT_DIR$/gastronomiaApi.iml" />
+    </modules>
+  </component>
+</project>

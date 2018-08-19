@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gastronomia:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gastronomia_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gastronomia/web/Web" />
+    </root>
+  </artifact>
+</component>

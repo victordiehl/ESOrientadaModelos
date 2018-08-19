@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="hibernate.cfg.xml/Hibernate">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="gastronomia">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="ages_e"/>
+    <schema id="4" parent="1" name="audio_e"/>
+    <schema id="5" parent="1" name="biblioteca_e"/>
+    <schema id="6" parent="1" name="cvages_e"/>
+    <schema id="7" parent="1" name="ideias"/>
+    <schema id="8" parent="1" name="information_schema"/>
+    <schema id="9" parent="1" name="modelo_e"/>
+    <schema id="10" parent="1" name="mysql"/>
+    <schema id="11" parent="1" name="performance_schema"/>
+    <schema id="12" parent="1" name="pet"/>
+    <schema id="13" parent="1" name="sys"/>
+    <schema id="14" parent="1" name="trocas"/>
+  </database-model>
+</dataSource>
